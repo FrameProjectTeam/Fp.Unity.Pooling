@@ -1,0 +1,13 @@
+{
+  "name": "com.fp.pooling",
+  "version": "1.0.0",
+  "displayName": "Object Pooling",
+  "description": "Simple object pooling implementation",
+  "unity": "2019.1",
+  "keywords": ["Pooling"],
+  "author": { "name": "Frame Project", "email": "Yevhenii.Vitiuk@gmail.com"},
+  "license": "MIT",
+  "dependencies": {
+    "com.fp.objectmodels": "https://github.com/FrameProjectTeam/Fp.Unity.ObjectModels.git?path=Assets"
+  }
+}

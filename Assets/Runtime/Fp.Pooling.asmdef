@@ -1,0 +1,16 @@
+{
+    "name": "Fp.Pooling",
+    "rootNamespace": "Fp.Pooling",
+    "references": [
+        "GUID:28a57f629ad515e479711311dc5f96d6"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
